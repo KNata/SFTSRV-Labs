@@ -36,6 +36,8 @@ public class App
         theDepartment.assignSalaryForEmployee("Andrii", "Tanchun", 400, 2);
         System.out.println();
         theDepartment.assignSalaryToManager("Olena", "Petrenko", 566);
+        theDepartment.assignSalaryToManager("Olena", "Petrenko", 566);
+        System.out.println();
 
 
     }
